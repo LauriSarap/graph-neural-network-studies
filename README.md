@@ -1,0 +1,1 @@
+A repository for personal studies and notes about GNNs
